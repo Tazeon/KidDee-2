@@ -1,4 +1,4 @@
-# KidDee-3
+# KidDee-2
 
 ### Qwen3-8B Base
 - Use **Qwen/Qwen3-8B-Base** from Hugging Face  
