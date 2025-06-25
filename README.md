@@ -7,9 +7,9 @@
 - No Finetune, No RAG, No Unsloth
 - 0.72 Public score
 
-### เหลือ
-- Use **เว้นไว้** from Hugging Face
- [รอคนทำ](https://huggingface.co/Qwen/Qwen3-8B-Base)
-- รอคนทำ
-- รอคนทำ
-- รอคนทำ
+### THaLLE-0.1-7B-fa
+- Use **KBTG-Labs/THaLLE-0.1-7B-fa** from Hugging Face
+ [KBTG-Labs/THaLLE-0.1-7B-fa]([https://huggingface.co/Qwen/Qwen3-8B-Base](https://huggingface.co/KBTG-Labs/THaLLE-0.1-7B-fa))
+- Prompt Only
+- No Finetune, No RAG
+- 0.692 Public score
